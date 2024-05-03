@@ -12,7 +12,7 @@ int main() {
     printf("Programa para generacion de una sucesion numerica con la formula n(n+1)(2n+1)/6\n\n");
 
 
-    // Solicitar al usuario que ingrese un número entero positivo
+    // Solicitar al usuario que ingrese un número entero positivo.
     printf("Ingrese un numero entero positivo: ");
     scanf("%lf", &num);
 
