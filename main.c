@@ -53,6 +53,6 @@ int main() {
 
     // Mostrar el signo zodiacal correspondiente
     printf("Tu signo zodiacal es: %s\n", signo);
-    get();
+    getc;
     return 0;
 }
