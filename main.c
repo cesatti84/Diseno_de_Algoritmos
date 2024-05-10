@@ -44,7 +44,7 @@ int main() {
     // Validación de la fecha ingresada
     if ((dia < 1 || dia > 31) || (mes < 1 || mes > 12)) {
         printf("Fecha de nacimiento no valida, por favor ingresar ambos datos de acuerdo a los rangos indicados en cada caso.\n");
-        getch();
+        getc;
         return 1;
     }
 
